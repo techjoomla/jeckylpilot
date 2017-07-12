@@ -1,5 +1,3 @@
-This is the open source repository for Branch's main documentation portal. You can find the live version at https://dev.branch.io. Staging is at http://dev.staging.branch.io.s3-website-us-west-1.amazonaws.com
-
 # Installation
 
 If you're interested in building the documentation portal on your local machine, follow the steps below.
