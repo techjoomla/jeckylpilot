@@ -1,1 +1,34 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Branch Documentation
+name: Branch Metrics
+email: info@branchmetrics.io
+description: "Helping apps grow through seamless referrals, sharing and deep linking across install."
+url: "http://localhost:4000"
+baseurl: ""
+environment: production
+permalink: pretty
+markdown: kramdown
+highlighter: pygments
+dashboard_url: "http://localhost:3000"
+branch_github_url: "https://github.com/BranchMetrics"
+safe: false
+
+exclude:
+- vendor
+- .gitignore
+- README.md
+- ingredients
+- js/components
+- js/stores
+- js/actions
+- js/support
+- node_modules
+- package.json
+- node.txt
+- Gemfile
+- Gemfile.lock
+- circle.yml
+- s3_website.yml
+
+sass:
+    sass_dir: css

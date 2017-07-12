@@ -1,0 +1,9 @@
+node_modules/**
+.DS_Store
+_site
+npm-debug.log
+.sass-cache
+Gemfile.lock
+node.txt
+.idea
+yarn.lock
